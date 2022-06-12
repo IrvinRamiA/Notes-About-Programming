@@ -5,7 +5,7 @@
 1. Go to the project directory.
 2. First create a new repository in this directory: $ git init
 3. The default branch is "master".
-4a. Now you can tell Git about your files by adding them to your repository:
+4. Now you can tell Git about your files by adding them to your repository:
 * $ git add . (to add all folders and files).
 * $ git add folder_name/file_name
 5. Commit your changes so Git can track them: $ git commit -m "First commit"
